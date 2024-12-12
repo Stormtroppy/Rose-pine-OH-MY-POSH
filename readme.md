@@ -17,7 +17,7 @@
 
 ## Gallery
 
-![OH-MY-POSH + RosePine](https://git.envs.net/Stormtroppy/Rose-Pine-OH-MY-POSH/raw/branch/main/gitearosepine.png)
+![Default Rosé Pine skin](https://git.envs.net/Stormtroppy/Rose-Pine-OH-MY-POSH/raw/branch/main/gitearosepine.png)
 
 ## Thanks to
 
